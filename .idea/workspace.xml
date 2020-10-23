@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5309cc3-94b8-4705-998a-802e8de9bf89" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="275" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mpr-java" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1igc5wfal9878qJLygXcQdMqrVw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.edu.pjwstk.mpr" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WeightedAverageTest.should_throw_when_file_does_not_specified">
+    <configuration name="WeightedAverageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mpr-java.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pjwstk.mpr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.edu.pjwstk.mpr" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pjwstk.mpr.WeightedAverageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeightedAverageTest.should_calculate_simple_average" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mpr-java.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pjwstk.mpr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.edu.pjwstk.mpr" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pjwstk.mpr.WeightedAverageTest" />
+      <option name="METHOD_NAME" value="should_calculate_simple_average" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeightedAverageTest.should_throw_when_file_does_not_exist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mpr-java.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pjwstk.mpr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.edu.pjwstk.mpr" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pjwstk.mpr.WeightedAverageTest" />
+      <option name="METHOD_NAME" value="should_throw_when_file_does_not_exist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeightedAverageTest.should_throw_when_file_does_not_exists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mpr-java.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pjwstk.mpr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.edu.pjwstk.mpr" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pjwstk.mpr.WeightedAverageTest" />
+      <option name="METHOD_NAME" value="should_throw_when_file_does_not_exists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeightedAverageTest.should_throw_when_file_does_not_specified" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mpr-java.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pjwstk.mpr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.edu.pjwstk.mpr" />
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pjwstk.mpr.WeightedAverageTest" />
+      <option name="METHOD_NAME" value="should_throw_when_file_does_not_specified" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WeightedAverageTest.should_throw_when_file_does_not_specified" />
+        <item itemvalue="JUnit.WeightedAverageTest.should_calculate_simple_average" />
+        <item itemvalue="JUnit.WeightedAverageTest" />
+        <item itemvalue="JUnit.WeightedAverageTest.should_throw_when_file_does_not_exist" />
+        <item itemvalue="JUnit.WeightedAverageTest.should_throw_when_file_does_not_exists" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5309cc3-94b8-4705-998a-802e8de9bf89" name="Default Changelist" comment="" />
+      <created>1602332495292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602332495292</updated>
+      <workItem from="1602332498508" duration="1907000" />
+      <workItem from="1602334436437" duration="4110000" />
+      <workItem from="1603313909465" duration="950000" />
+      <workItem from="1603314879540" duration="3483000" />
+      <workItem from="1603397254500" duration="5161000" />
+      <workItem from="1603403880407" duration="515000" />
+      <workItem from="1603404582882" duration="1124000" />
+      <workItem from="1603405860952" duration="296000" />
+      <workItem from="1603406733186" duration="1402000" />
+      <workItem from="1603473658705" duration="2662000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="904" y="162" key="#Inspections" timestamp="1603401094133">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="904" y="162" key="#Inspections/0.0.1920.1160@0.0.1920.1160" timestamp="1603401094133" />
+    <state x="452" y="154" key="#Project_Structure" timestamp="1602335371386">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="452" y="154" key="#Project_Structure/0.0.1920.1160@0.0.1920.1160" timestamp="1602335371386" />
+    <state x="485" y="154" key="#WeightedAverageTest.should_calculate_simple_average" timestamp="1603400565089">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="485" y="154" key="#WeightedAverageTest.should_calculate_simple_average/0.0.1920.1160@0.0.1920.1160" timestamp="1603400565089" />
+    <state x="92" y="92" width="1736" height="976" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1603474084533">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="92" y="92" width="1736" height="976" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603474084533" />
+    <state width="1864" height="303" key="GridCell.Tab.0.bottom" timestamp="1603479912197">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1864" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1603479912197" />
+    <state width="1864" height="303" key="GridCell.Tab.0.center" timestamp="1603479912197">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1864" height="303" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1603479912197" />
+    <state width="1864" height="303" key="GridCell.Tab.0.left" timestamp="1603479912197">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1864" height="303" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1603479912197" />
+    <state width="1864" height="303" key="GridCell.Tab.0.right" timestamp="1603479912197">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1864" height="303" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1603479912197" />
+    <state width="1864" height="379" key="GridCell.Tab.1.bottom" timestamp="1603404399355">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1864" height="379" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1603404399355" />
+    <state width="1864" height="379" key="GridCell.Tab.1.center" timestamp="1603404399355">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1864" height="379" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1603404399355" />
+    <state width="1864" height="379" key="GridCell.Tab.1.left" timestamp="1603404399354">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1864" height="379" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1603404399354" />
+    <state width="1864" height="379" key="GridCell.Tab.1.right" timestamp="1603404399355">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1864" height="379" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1603404399355" />
+    <state x="312" y="49" key="SettingsEditor" timestamp="1603405906019">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="312" y="49" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1603405906019" />
+    <state x="1051" y="361" key="com.intellij.ide.util.TipDialog" timestamp="1603473691896">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1051" y="361" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1603473691896" />
+    <state x="1073" y="231" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1602334551136">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1073" y="231" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1602334551136" />
+    <state x="230" y="80" key="new project wizard" timestamp="1602332555613">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="230" y="80" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1602332555613" />
+    <state x="532" y="267" width="840" height="1034" key="run.anything.popup" timestamp="1603405914408">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="532" y="267" width="840" height="1034" key="run.anything.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1603405914408" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mpr_java$WeightedAverageTest.ic" NAME="WeightedAverageTest Coverage Results" MODIFIED="1603404133905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.edu.pjwstk.mpr.*</FILTER>
+    </SUITE>
+  </component>
+</project>
